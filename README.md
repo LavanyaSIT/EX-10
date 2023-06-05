@@ -66,12 +66,13 @@ while True:
     ```
 # OUTPUT :
 # CLIENT :
-![image](https://github.com/LavanyaSIT/EX-10/assets/130207418/722e12de-b1e0-467b-bb7e-33a83cb58dc2)
+![image](https://github.com/LavanyaSIT/EX-10/assets/130207418/75a7635c-497d-4a4f-aa62-7c13dd047758)
 
 
 # SERVER :
+![image](https://github.com/LavanyaSIT/EX-10/assets/130207418/f8dc18c8-cc3e-45ee-87a6-e129b02344a6)
 
-![image](https://github.com/LavanyaSIT/EX-10/assets/130207418/e5684601-a831-4acc-992f-9f0e4ec9c876)
+
 
 # RESULT :
 Thus, the python program for creating File Transfer using TCP Sockets Links was successfully created and executed.
