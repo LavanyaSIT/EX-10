@@ -67,16 +67,12 @@ while True:
 # OUTPUT :
 # CLIENT :
 
-
-![image](https://github.com/LavanyaSIT/EX-10/assets/130207418/0c52d3fd-e8cc-403b-a7ff-2ce5e9532e10)
-
+![image](https://github.com/LavanyaSIT/EX-10/assets/130207418/030b0a80-6867-4ce3-a0e3-83ee00965df2)
 
 
 # SERVER :
 
-
-![image](https://github.com/LavanyaSIT/EX-10/assets/130207418/82668ff9-03ea-451a-bdec-8caf277e0084)
-
+![image](https://github.com/LavanyaSIT/EX-10/assets/130207418/06e021b9-ba83-475a-96ff-9b41256baef0)
 
 
 # RESULT :
